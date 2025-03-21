@@ -2,7 +2,7 @@
 Dans ce projet, j'implémente une méthode de scoring des pays dans le cadre de l'expansion d'une entreprise.
 
 
-Expansion Internationale - Méthode de Scoring des Pays
+## Expansion Internationale - Méthode de Scoring des Pays
 📌 Description
 Ce projet met en place une méthode de scoring des pays dans le cadre de l’expansion d’une entreprise. L'objectif est d'identifier les marchés les plus prometteurs en analysant divers indicateurs économiques et éducatifs.
 
@@ -30,17 +30,20 @@ Visualisation
 
 Histogrammes de distribution
 Cartes de corrélation
-🌍 Résultats
+
+## 🌍 Résultats
 ✅ Pays les plus prometteurs
 Liechtenstein : Très riche, excellent accès aux technologies et à l’éducation.
 Tanzanie : Croissance démographique rapide et indicateurs éducatifs solides.
 Guinée équatoriale : PIB élevé grâce au pétrole, mais des défis en développement humain.
 Niger : Forte croissance démographique et respect des standards éducatifs.
 
-📌 Conclusions
+## 📌 Conclusions
+
 Les pays à fort PIB (ex. Luxembourg, Suisse, États-Unis) sont intéressants pour des produits spécialisés.
 Les pays en forte croissance (ex. Tanzanie, Niger) offrent un marché en expansion rapide.
 
-🚀 Prochaines Étapes
+## 🚀 Prochaines Étapes
+
 Affiner le scoring en intégrant d'autres indicateurs économiques et technologiques.
 Tester des modèles prédictifs pour anticiper les évolutions du marché.
