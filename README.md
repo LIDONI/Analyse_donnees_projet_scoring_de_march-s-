@@ -36,9 +36,11 @@ Liechtenstein : Très riche, excellent accès aux technologies et à l’éducat
 Tanzanie : Croissance démographique rapide et indicateurs éducatifs solides.
 Guinée équatoriale : PIB élevé grâce au pétrole, mais des défis en développement humain.
 Niger : Forte croissance démographique et respect des standards éducatifs.
+
 📌 Conclusions
 Les pays à fort PIB (ex. Luxembourg, Suisse, États-Unis) sont intéressants pour des produits spécialisés.
 Les pays en forte croissance (ex. Tanzanie, Niger) offrent un marché en expansion rapide.
+
 🚀 Prochaines Étapes
 Affiner le scoring en intégrant d'autres indicateurs économiques et technologiques.
 Tester des modèles prédictifs pour anticiper les évolutions du marché.
