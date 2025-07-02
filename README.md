@@ -50,3 +50,14 @@ Niger : Forte croissance démographique et respect des standards éducatifs.
 
 Les pays à fort PIB (ex. Luxembourg, Suisse, États-Unis) sont intéressants pour des produits spécialisés.
 Les pays en forte croissance (ex. Tanzanie, Niger) offrent un marché en expansion rapide.
+
+## 👤 Auteur
+
+Ce projet a été réalisé par :
+
+**khalid OURO-ADOYI**  
+
+Data Analyst & Engineer | Développeur Power BI ,Qlik sense 
+
+📧 Email : khalidouroadoyi@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/khalid-ouro-adoyi/) | [GitHub](https://github.com/LIDONI)
