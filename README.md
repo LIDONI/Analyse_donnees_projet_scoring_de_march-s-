@@ -9,7 +9,7 @@ Ce projet met en place une méthode de scoring des pays dans le cadre de l’exp
 
 **Données Utilisées**
 
-Les données proviennent de la base EdStats, qui comprend plusieurs fichiers :
+Les données proviennent de la base EdStats de la banque mondiale , qui comprend plusieurs fichiers :
 
 EdStatsSeries
 EdStatsFootNote
